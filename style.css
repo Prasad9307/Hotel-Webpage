@@ -419,7 +419,7 @@ i {
   color: rgb(180, 180, 180);
 }
 
-.main-abhishek {
+.main-prasad {
   height: 100vh;
   width: 100%;
   background-color: rgb(255, 255, 255);
@@ -429,12 +429,12 @@ i {
   color: #333;
 }
 
-.main-abhishek .diver {
+.main-prasad .diver {
   width: 100%;
   height: 100%;
 }
 
-.main-abhishek > .diver > .img-div {
+.main-prasad > .diver > .img-div {
   position: absolute;
   width: 70vw;
   height: 100vh;
@@ -470,7 +470,7 @@ i {
   margin-right: auto;
 }
 
-.main-abhishek .diver .main-txt-front {
+.main-prasad .diver .main-txt-front {
   display: flex;
   align-items: left;
   flex-direction: column;
@@ -483,14 +483,14 @@ i {
   z-index: 2;
 }
 
-.main-abhishek .diver .main-txt-front h1 {
+.main-prasad .diver .main-txt-front h1 {
   font-size: 7vw;
   font-family: hotel2;
   letter-spacing: 0.8vw;
   color: #333333;
 }
 
-.main-abhishek .diver .main-txt-front h1 span {
+.main-prasad .diver .main-txt-front h1 span {
   font-family: hotel2;
   margin-right: 4vw;
 }
