@@ -186,7 +186,7 @@ function example() {
 
 var tl7 = gsap.timeline();
 tl7.from(
-  ".main-abhishek",
+  ".main-prasad",
   {
     opacity: "0",
     ease: "expo.inout",
@@ -307,13 +307,13 @@ document
     document.querySelector("#cntr-nav .ri-menu-line").style.display = "initial";
   });
 
-document.querySelector("#abhishek").addEventListener("mousemove", function () {
+document.querySelector("#prasad").addEventListener("mousemove", function () {
   document.querySelector("#slider-upar-wala").style.marginTop = "0%";
-  document.querySelector("#abhishek").style.cursor = "pointer";
+  document.querySelector("#prasad").style.cursor = "pointer";
 });
-document.querySelector("#amarjeet").addEventListener("mousemove", function () {
+document.querySelector("#pawar").addEventListener("mousemove", function () {
   document.querySelector("#slider-upar-wala").style.marginTop = "-50vh";
-  document.querySelector("#amarjeet").style.cursor = "pointer";
+  document.querySelector("#pawar").style.cursor = "pointer";
 });
 document.querySelector("#rk").addEventListener("mousemove", function () {
   document.querySelector("#slider-upar-wala").style.marginTop = "-100vh";
