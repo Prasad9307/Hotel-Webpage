@@ -325,7 +325,6 @@ document.querySelector("#ak").addEventListener("mousemove", function () {
 });
 
 
-// video 3 ----------------------------
 
 
 function dom(){
